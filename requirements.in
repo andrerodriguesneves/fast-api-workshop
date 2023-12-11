@@ -1,0 +1,12 @@
+fastapi     # FastAPI: Framework de alto desempenho, fácil de aprender, rápido para codificar, pronto para produção
+uvicorn     # Uvicorn: Servidor ASGI, baseado em uvloop e httptools
+sqlmodel    # SQLModel: Bancos de dados SQL em Python, simples, compatível e robusto
+typer       # Typer: Construa ótimas interfaces de linha de comando, fácil de codificar, baseado em dicas de tipo do Python
+dynaconf    # Dynaconf: Configuração dinâmica para aplicações Python
+jinja2      # Jinja2: Linguagem de templating moderna e amigável para designers em Python, inspirada nos templates do Django
+python-jose[cryptography] 
+passlib[bcrypt] 
+python-multipart    # Parser Multipart para Python, para uploads de arquivos e mais
+psycopg2-binary    # Psycopg: Adaptador de banco de dados PostgreSQL mais popular para Python
+alembic     # Alembic: Ferramenta leve de migração de banco de dados para uso com SQLAlchemy em Python
+rich        # Rich: Biblioteca para texto rico e formatação bonita no terminal
